@@ -1,0 +1,6 @@
+{
+  "name": "Data Visualization Projects/Posts",
+  "tagline": "Things I created while completing Free Code Camp's Data Visualization track",
+  "body": "### Hello!\r\nNormally, I upload all my code to Github, but for the Free Code Camp Data Visualization Track, all projects had to be built on Codepen, which led to the code already being accessible, albeit with sub-optimal structure (because everything has to live in a single file, even for the big projects like my React Dungeon-Crawler game), and in a separate silo'ed space. As well, when I started to learn D3, and realized that much of the available tutorial material is sadly out of date, I wanted a place to share useful resources and found, and post updated versions of out-of-date tutorials.\r\n\r\n### Authors and Contributors\r\nSo far, just me, @ubershibs. But if you have something to add, feel free. Especially with the D3 stuff, as I'm still very new to it myself.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
